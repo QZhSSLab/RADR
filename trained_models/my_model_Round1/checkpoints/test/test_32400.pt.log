@@ -1,0 +1,11 @@
+2023-12-30 17:49:33, INFO: robot FOV 2.000000
+2023-12-30 17:49:33, INFO: humans FOV 2.000000
+2023-12-30 17:49:33, INFO: Create other envs with new settings
+2023-12-30 17:49:33, INFO: human number: 20
+2023-12-30 17:49:33, INFO: Randomize human's radius and preferred speed
+2023-12-30 17:49:33, INFO: Circle width: 8.485281374238571
+2023-12-30 17:49:33, INFO: robot FOV 6.283185
+2023-12-30 17:49:33, INFO: humans FOV 6.283185
+2023-12-30 18:02:32, INFO: Testing success rate: 0.93, collision rate: 0.07, timeout rate: 0.00, nav time: 15.89, path length: 22.37, average intrusion ratio: 4.10%, average minimal distance during intrusions: 0.44
+2023-12-30 18:02:32, INFO: Collision cases: 6 28 31 42 48 49 60 61 67 86 144 170 192 210 236 242 243 256 278 281 292 298 299 310 311 317 336 394 420 442 460 486 492 493
+2023-12-30 18:02:32, INFO: Timeout cases: 
